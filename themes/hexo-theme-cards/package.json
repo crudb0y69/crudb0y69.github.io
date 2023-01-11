@@ -22,7 +22,9 @@
     "url": "https://github.com/ChrAlpha/hexo-theme-cards/issues"
   },
   "homepage": "https://github.com/ChrAlpha/hexo-theme-cards#readme",
-  "dependencies": {},
+  "dependencies": {
+    "hexo-math": "^4.0.0"
+  },
   "devDependencies": {
     "del": "^5.1.0",
     "gulp": "4.0.2",

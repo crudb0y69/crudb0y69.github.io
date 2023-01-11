@@ -5,6 +5,7 @@ tags:
  - 'LeetCode'
  - 'Easy'
 sidebar:    none
+mathjax: true
 ---
  > 题目来源：https://leetcode.cn/problems/sqrtx/
 ## 题目描述

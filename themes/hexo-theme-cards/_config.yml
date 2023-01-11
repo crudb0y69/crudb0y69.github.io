@@ -404,7 +404,7 @@ fancybox:
 back_to_top: true
 
 # 深色模式
-darkmode: false
+darkmode: true
 
 # Mermaid Diagrams
 mermaid: 
