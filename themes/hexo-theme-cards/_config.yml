@@ -14,7 +14,7 @@ head:
   
   # 网站图标
   favicon:
-    ico: images/favicon/favicon.ico
+    ico: assets/favicon/favicon.ico
     small:
     medium: 
     apple_touch_icon: 
@@ -46,7 +46,7 @@ head:
 navbar: 
 
   # 左侧名称显示
-  sitename: lo小黄鸭
+  sitename: Lo小黄鸭
   
   # 右侧站内导航链接
   menu: 
@@ -71,7 +71,7 @@ navbar:
 cover: 
 
   # 显示在最上方 cover 处的站点名称
-  sitename: lo小黄鸭
+  sitename: Lo小黄鸭
 
   # 若 avatar 配置不为空，则优先使用 avatar 覆盖 sitename
   avatar: 
@@ -89,8 +89,8 @@ style:
 
   # 颜色配置
   color: 
-    main_color: '#6200ee'
-    main_color_dark: '#bb86fc'
+    main_color: '#daa201' #'#6200ee'
+    main_color_dark: '#ffd252' #'#bb86fc'
 
   # 弧度设置
   radius: 
