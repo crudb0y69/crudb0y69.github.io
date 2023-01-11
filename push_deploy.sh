@@ -1,7 +1,7 @@
 #! /bin/bash
 
 git add .
-git commit -m "add website favicon"
+git commit -m "backup"
 git push origin backup
 
 hexo clean
