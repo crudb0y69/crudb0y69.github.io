@@ -14,7 +14,7 @@ head:
   
   # 网站图标
   favicon:
-    ico: 
+    ico: images/logo/favicon.ico
     small:
     medium: 
     apple_touch_icon: 
@@ -22,7 +22,7 @@ head:
   
   # 社交分享链接
   opengraph: 
-    enable: false
+    enable: true
     type: 
     twitter_card: summary_large_image
     twitter_id: 
